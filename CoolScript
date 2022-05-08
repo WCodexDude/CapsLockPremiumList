@@ -1,0 +1,6 @@
+local PremiumIDS = { 
+
+  2266148679,
+}
+
+return id;
